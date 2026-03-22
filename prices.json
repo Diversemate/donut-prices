@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-23T02:52:32.207643Z",
+  "updated_at": "2026-03-23T03:16:52.920282Z",
   "spawner_price": 5000000,
   "channels": [
     {
@@ -7,19 +7,19 @@
       "prices": {
         "spawner_buy_price": 5000000,
         "confidence": "high",
-        "notes": "Found a new Skeleton Spawner buy price of 5m in the WE SELL TO YOU section"
+        "notes": "Extracted Skeleton Spawners price of 5m each under WE SELL TO YOU section."
       },
-      "scraped_at": "2026-03-23T02:52:04.401242Z",
+      "scraped_at": "2026-03-23T03:16:25.321646Z",
       "message_count": 2
     },
     {
       "channel": "https://discord.com/channels/1370523532806721556/1416840623230681088",
       "prices": {
-        "spawner_buy_price": 5000000,
+        "spawner_buy_price": 5500000,
         "confidence": "high",
-        "notes": "Skeleton Spawners price was clearly listed under WE BUY FROM YOU section."
+        "notes": "Found the buy price for Skeleton Spawners clearly listed at the end of the message."
       },
-      "scraped_at": "2026-03-23T02:52:11.295458Z",
+      "scraped_at": "2026-03-23T03:16:32.206194Z",
       "message_count": 3
     },
     {
@@ -27,9 +27,9 @@
       "prices": {
         "spawner_buy_price": 5600000,
         "confidence": "high",
-        "notes": "Extracted Skeleton Spawner buy price from Selling: ( We Sell To You )"
+        "notes": "Selling price for Skeleton Spawners is 5.6M each, which is the higher value and implies the buying price for you is 5.6M each"
       },
-      "scraped_at": "2026-03-23T02:52:18.132081Z",
+      "scraped_at": "2026-03-23T03:16:39.071101Z",
       "message_count": 2
     },
     {
@@ -37,9 +37,9 @@
       "prices": {
         "spawner_buy_price": 5500000,
         "confidence": "high",
-        "notes": "Extracted Skeleton Spawner buy price from a pinned message in the economy channel of the DonutSMP server"
+        "notes": "Purchased price found in 'WE SELL TO YOU' message with high confidence"
       },
-      "scraped_at": "2026-03-23T02:52:25.036694Z",
+      "scraped_at": "2026-03-23T03:16:45.911715Z",
       "message_count": 3
     },
     {
@@ -47,9 +47,9 @@
       "prices": {
         "spawner_buy_price": 5300000,
         "confidence": "high",
-        "notes": "Selling and buying prices for Skeleton Spawner are available, buying price is clearly indicated."
+        "notes": "Successfully extracted Skeleton Spawner buy price with high confidence from edited March 22, 2026 message at 17:58."
       },
-      "scraped_at": "2026-03-23T02:52:31.998522Z",
+      "scraped_at": "2026-03-23T03:16:52.735653Z",
       "message_count": 1
     }
   ]
