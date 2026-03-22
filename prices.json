@@ -1,0 +1,56 @@
+{
+  "updated_at": "2026-03-23T02:52:32.207643Z",
+  "spawner_price": 5000000,
+  "channels": [
+    {
+      "channel": "https://discord.com/channels/1389268691366973491/1426841516277764257",
+      "prices": {
+        "spawner_buy_price": 5000000,
+        "confidence": "high",
+        "notes": "Found a new Skeleton Spawner buy price of 5m in the WE SELL TO YOU section"
+      },
+      "scraped_at": "2026-03-23T02:52:04.401242Z",
+      "message_count": 2
+    },
+    {
+      "channel": "https://discord.com/channels/1370523532806721556/1416840623230681088",
+      "prices": {
+        "spawner_buy_price": 5000000,
+        "confidence": "high",
+        "notes": "Skeleton Spawners price was clearly listed under WE BUY FROM YOU section."
+      },
+      "scraped_at": "2026-03-23T02:52:11.295458Z",
+      "message_count": 3
+    },
+    {
+      "channel": "https://discord.com/channels/1368459126971306026/1373579452998746155",
+      "prices": {
+        "spawner_buy_price": 5600000,
+        "confidence": "high",
+        "notes": "Extracted Skeleton Spawner buy price from Selling: ( We Sell To You )"
+      },
+      "scraped_at": "2026-03-23T02:52:18.132081Z",
+      "message_count": 2
+    },
+    {
+      "channel": "https://discord.com/channels/1435392354243837985/1435392356257103926",
+      "prices": {
+        "spawner_buy_price": 5500000,
+        "confidence": "high",
+        "notes": "Extracted Skeleton Spawner buy price from a pinned message in the economy channel of the DonutSMP server"
+      },
+      "scraped_at": "2026-03-23T02:52:25.036694Z",
+      "message_count": 3
+    },
+    {
+      "channel": "https://discord.com/channels/1447593658349256836/1452691863072149566",
+      "prices": {
+        "spawner_buy_price": 5300000,
+        "confidence": "high",
+        "notes": "Selling and buying prices for Skeleton Spawner are available, buying price is clearly indicated."
+      },
+      "scraped_at": "2026-03-23T02:52:31.998522Z",
+      "message_count": 1
+    }
+  ]
+}
