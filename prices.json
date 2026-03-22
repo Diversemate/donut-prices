@@ -1,11 +1,11 @@
 {
   "updated_at": "2026-03-23T03:16:52.920282Z",
-  "spawner_price": 5100000,
+  "spawner_price": 5000000,
   "channels": [
     {
       "channel": "https://discord.com/channels/1389268691366973491/1426841516277764257",
       "prices": {
-        "spawner_buy_price": 5100000,
+        "spawner_buy_price": 5000000,
         "confidence": "high",
         "notes": "Extracted Skeleton Spawners price of 5m each under WE SELL TO YOU section."
       },
