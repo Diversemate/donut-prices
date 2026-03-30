@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-03-26T00:42:32.740101Z",
-  "spawner_price": 4900000,
+  "updated_at": "2026-03-31T00:42:21.014894Z",
+  "spawner_price": 5300000,
   "channels": [
     {
       "channel": "https://discord.com/channels/1389268691366973491/1426841516277764257",
       "prices": {
-        "spawner_buy_price": 4900000,
-        "confidence": "high",
-        "notes": "Found the price under WE SELL TO YOU in the given Discord message, converted to a plain number"
+        "spawner_buy_price": null,
+        "confidence": "low",
+        "notes": "'<' not supported between instances of 'str' and 'int'"
       },
-      "scraped_at": "2026-03-26T00:42:05.176777Z",
+      "scraped_at": "2026-03-31T00:41:52.082781Z",
       "message_count": 2
     },
     {
@@ -17,39 +17,39 @@
       "prices": {
         "spawner_buy_price": 5300000,
         "confidence": "high",
-        "notes": "Extracted Skeleton Spawner price from the provided Discord message"
+        "notes": ""
       },
-      "scraped_at": "2026-03-26T00:42:12.010501Z",
+      "scraped_at": "2026-03-31T00:41:59.007636Z",
       "message_count": 2
     },
     {
       "channel": "https://discord.com/channels/1368459126971306026/1373579452998746155",
       "prices": {
-        "spawner_buy_price": 5300000,
-        "confidence": "high",
-        "notes": "The price YOU PAY to buy a Skeleton Spawner is explicitly stated."
+        "spawner_buy_price": null,
+        "confidence": "low",
+        "notes": "Failed to parse AI response"
       },
-      "scraped_at": "2026-03-26T00:42:18.831857Z",
+      "scraped_at": "2026-03-31T00:42:05.964740Z",
       "message_count": 2
     },
     {
       "channel": "https://discord.com/channels/1435392354243837985/1435392356257103926",
       "prices": {
-        "spawner_buy_price": 5200000,
-        "confidence": "high",
-        "notes": "Spawner shop prices clearly listed in the message, easily identifiable and in the standard format."
+        "spawner_buy_price": 5300000,
+        "confidence": "medium",
+        "notes": "Explicit price given, however price label is somewhat unclear and is in a somewhat different format than expected."
       },
-      "scraped_at": "2026-03-26T00:42:25.712825Z",
+      "scraped_at": "2026-03-31T00:42:12.936776Z",
       "message_count": 3
     },
     {
       "channel": "https://discord.com/channels/1447593658349256836/1452691863072149566",
       "prices": {
-        "spawner_buy_price": 5000000,
-        "confidence": "high",
-        "notes": "Parsed skeleton spawner buy price from given message."
+        "spawner_buy_price": null,
+        "confidence": "low",
+        "notes": "Failed to parse AI response"
       },
-      "scraped_at": "2026-03-26T00:42:32.535055Z",
+      "scraped_at": "2026-03-31T00:42:20.712432Z",
       "message_count": 1
     }
   ]
