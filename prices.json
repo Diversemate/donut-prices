@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-03-31T00:42:21.014894Z",
-  "spawner_price": 5300000,
+  "updated_at": "2026-03-31T00:44:00.740526Z",
+  "spawner_price": 5200000,
   "channels": [
     {
       "channel": "https://discord.com/channels/1389268691366973491/1426841516277764257",
       "prices": {
-        "spawner_buy_price": null,
-        "confidence": "low",
-        "notes": "'<' not supported between instances of 'str' and 'int'"
+        "spawner_buy_price": 5200000,
+        "confidence": "medium",
+        "notes": "direct price mentioned"
       },
-      "scraped_at": "2026-03-31T00:41:52.082781Z",
+      "scraped_at": "2026-03-31T00:43:33.325759Z",
       "message_count": 2
     },
     {
@@ -19,7 +19,7 @@
         "confidence": "high",
         "notes": ""
       },
-      "scraped_at": "2026-03-31T00:41:59.007636Z",
+      "scraped_at": "2026-03-31T00:43:40.131061Z",
       "message_count": 2
     },
     {
@@ -27,9 +27,9 @@
       "prices": {
         "spawner_buy_price": null,
         "confidence": "low",
-        "notes": "Failed to parse AI response"
+        "notes": "No valid BUY price found for Skeleton Spawners"
       },
-      "scraped_at": "2026-03-31T00:42:05.964740Z",
+      "scraped_at": "2026-03-31T00:43:46.988723Z",
       "message_count": 2
     },
     {
@@ -37,19 +37,19 @@
       "prices": {
         "spawner_buy_price": 5300000,
         "confidence": "medium",
-        "notes": "Explicit price given, however price label is somewhat unclear and is in a somewhat different format than expected."
+        "notes": "Explicit Skeleton Spawner buy price provided in the message"
       },
-      "scraped_at": "2026-03-31T00:42:12.936776Z",
+      "scraped_at": "2026-03-31T00:43:53.842148Z",
       "message_count": 3
     },
     {
       "channel": "https://discord.com/channels/1447593658349256836/1452691863072149566",
       "prices": {
-        "spawner_buy_price": null,
-        "confidence": "low",
-        "notes": "Failed to parse AI response"
+        "spawner_buy_price": 5300000,
+        "confidence": "high",
+        "notes": ""
       },
-      "scraped_at": "2026-03-31T00:42:20.712432Z",
+      "scraped_at": "2026-03-31T00:44:00.632545Z",
       "message_count": 1
     }
   ]
