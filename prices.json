@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-01T22:01:11.276534Z",
+  "updated_at": "2026-04-02T22:01:23.833150Z",
   "spawner_price": 5200000,
   "channels": [
     {
@@ -7,39 +7,39 @@
       "prices": {
         "spawner_buy_price": 5400000,
         "confidence": "high",
-        "notes": "Explicit price stated: 5.4m each"
+        "notes": ""
       },
-      "scraped_at": "2026-04-01T22:00:39.928238Z",
-      "message_count": 2
+      "scraped_at": "2026-04-02T22:00:52.099343Z",
+      "message_count": 3
     },
     {
       "channel": "https://discord.com/channels/1370523532806721556/1416840623230681088",
       "prices": {
-        "spawner_buy_price": 6500000,
-        "confidence": "high",
-        "notes": "Explicit current Skeleton Spawner buy price"
+        "spawner_buy_price": 5500000,
+        "confidence": "medium",
+        "notes": "Explicit buy price of Skeleton Spawners 5.5m each"
       },
-      "scraped_at": "2026-04-01T22:00:46.887648Z",
+      "scraped_at": "2026-04-02T22:00:59.872859Z",
       "message_count": 2
     },
     {
       "channel": "https://discord.com/channels/1368459126971306026/1373579452998746155",
       "prices": {
         "spawner_buy_price": 5500000,
-        "confidence": "medium",
-        "notes": ""
+        "confidence": "high",
+        "notes": "Explicit Skeleton Spawner buy price listed."
       },
-      "scraped_at": "2026-04-01T22:00:53.874655Z",
+      "scraped_at": "2026-04-02T22:01:07.301214Z",
       "message_count": 2
     },
     {
       "channel": "https://discord.com/channels/1435392354243837985/1435392356257103926",
       "prices": {
-        "spawner_buy_price": 5400000,
+        "spawner_buy_price": 5600000,
         "confidence": "high",
         "notes": ""
       },
-      "scraped_at": "2026-04-01T22:01:02.534388Z",
+      "scraped_at": "2026-04-02T22:01:16.128332Z",
       "message_count": 3
     },
     {
@@ -47,9 +47,9 @@
       "prices": {
         "spawner_buy_price": 5200000,
         "confidence": "high",
-        "notes": "Extracted from BUY PRICES u buy from us"
+        "notes": "[ Edited ]"
       },
-      "scraped_at": "2026-04-01T22:01:11.117566Z",
+      "scraped_at": "2026-04-02T22:01:23.584082Z",
       "message_count": 1
     }
   ]
