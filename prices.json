@@ -1,56 +1,5 @@
 {
-  "updated_at": "2026-04-04T22:05:29.378313Z",
-  "spawner_price": 5200000,
-  "channels": [
-    {
-      "channel": "https://discord.com/channels/1389268691366973491/1426841516277764257",
-      "prices": {
-        "spawner_buy_price": 5200000,
-        "confidence": "medium",
-        "notes": ""
-      },
-      "scraped_at": "2026-04-04T22:04:57.697485Z",
-      "message_count": 2
-    },
-    {
-      "channel": "https://discord.com/channels/1370523532806721556/1416840623230681088",
-      "prices": {
-        "spawner_buy_price": 5300000,
-        "confidence": "high",
-        "notes": "extracted Skeleton Spawner BUY price from the 'Buying:' section"
-      },
-      "scraped_at": "2026-04-04T22:05:04.845103Z",
-      "message_count": 2
-    },
-    {
-      "channel": "https://discord.com/channels/1368459126971306026/1373579452998746155",
-      "prices": {
-        "spawner_buy_price": null,
-        "confidence": "low",
-        "notes": ""
-      },
-      "scraped_at": "2026-04-04T22:05:13.210089Z",
-      "message_count": 2
-    },
-    {
-      "channel": "https://discord.com/channels/1435392354243837985/1435392356257103926",
-      "prices": {
-        "spawner_buy_price": 5300000,
-        "confidence": "high",
-        "notes": ""
-      },
-      "scraped_at": "2026-04-04T22:05:22.076461Z",
-      "message_count": 3
-    },
-    {
-      "channel": "https://discord.com/channels/1447593658349256836/1452691863072149566",
-      "prices": {
-        "spawner_buy_price": 5400000,
-        "confidence": "high",
-        "notes": ""
-      },
-      "scraped_at": "2026-04-04T22:05:29.262279Z",
-      "message_count": 2
-    }
-  ]
+  "updated_at": "2026-04-05T22:03:14.474356Z",
+  "spawner_price": null,
+  "channels": []
 }
