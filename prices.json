@@ -1,5 +1,56 @@
 {
-  "updated_at": "2026-04-05T22:03:14.474356Z",
-  "spawner_price": null,
-  "channels": []
+  "updated_at": "2026-04-05T23:20:15.239571Z",
+  "spawner_price": 5200000,
+  "channels": [
+    {
+      "channel": "https://discord.com/channels/1389268691366973491/1426841516277764257",
+      "prices": {
+        "spawner_buy_price": 5200000,
+        "confidence": "medium",
+        "notes": "Clear price in WE SELL TO YOU section"
+      },
+      "scraped_at": "2026-04-05T23:19:43.551634Z",
+      "message_count": 2
+    },
+    {
+      "channel": "https://discord.com/channels/1370523532806721556/1416840623230681088",
+      "prices": {
+        "spawner_buy_price": 5300000,
+        "confidence": "high",
+        "notes": "Explicit current buy price '5.3m each' for Skeleton Spawners"
+      },
+      "scraped_at": "2026-04-05T23:19:50.755226Z",
+      "message_count": 2
+    },
+    {
+      "channel": "https://discord.com/channels/1368459126971306026/1373579452998746155",
+      "prices": {
+        "spawner_buy_price": 5500000,
+        "confidence": "medium",
+        "notes": "Clear price for 'Skeleton Spawners' in WE SELL TO YOU section."
+      },
+      "scraped_at": "2026-04-05T23:19:59.290897Z",
+      "message_count": 2
+    },
+    {
+      "channel": "https://discord.com/channels/1435392354243837985/1435392356257103926",
+      "prices": {
+        "spawner_buy_price": 5300000,
+        "confidence": "medium",
+        "notes": "clear and explicit buy price listed"
+      },
+      "scraped_at": "2026-04-05T23:20:06.552339Z",
+      "message_count": 3
+    },
+    {
+      "channel": "https://discord.com/channels/1447593658349256836/1452691863072149566",
+      "prices": {
+        "spawner_buy_price": 5400000,
+        "confidence": "high",
+        "notes": "Explicit clear price 5.4M per."
+      },
+      "scraped_at": "2026-04-05T23:20:15.134408Z",
+      "message_count": 2
+    }
+  ]
 }
