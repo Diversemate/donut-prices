@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-04-06T23:01:07.230473Z",
-  "spawner_price": 5200000,
+  "updated_at": "2026-04-07T22:01:07.536746Z",
+  "spawner_price": 5100000,
   "channels": [
     {
       "channel": "https://discord.com/channels/1389268691366973491/1426841516277764257",
       "prices": {
-        "spawner_buy_price": 5200000,
-        "confidence": "medium",
-        "notes": "Explicit price mentioned for Skeleton Spawners"
+        "spawner_buy_price": null,
+        "confidence": "low",
+        "notes": ""
       },
-      "scraped_at": "2026-04-06T23:00:35.819726Z",
+      "scraped_at": "2026-04-07T22:00:36.942211Z",
       "message_count": 4
     },
     {
       "channel": "https://discord.com/channels/1370523532806721556/1416840623230681088",
       "prices": {
-        "spawner_buy_price": 5300000,
-        "confidence": "medium",
-        "notes": "Found 1 explicit buy price"
+        "spawner_buy_price": 5100000,
+        "confidence": "high",
+        "notes": "Explicit current buy price found as 'Skeleton Spawners 5.1m each'"
       },
-      "scraped_at": "2026-04-06T23:00:45.033332Z",
+      "scraped_at": "2026-04-07T22:00:44.180837Z",
       "message_count": 2
     },
     {
       "channel": "https://discord.com/channels/1368459126971306026/1373579452998746155",
       "prices": {
-        "spawner_buy_price": 5500000,
-        "confidence": "high",
-        "notes": ""
+        "spawner_buy_price": null,
+        "confidence": "low",
+        "notes": "No valid price found for Skeleton/Skeletons Spawner"
       },
-      "scraped_at": "2026-04-06T23:00:52.267584Z",
+      "scraped_at": "2026-04-07T22:00:53.032187Z",
       "message_count": 2
     },
     {
       "channel": "https://discord.com/channels/1435392354243837985/1435392356257103926",
       "prices": {
-        "spawner_buy_price": 5300000,
-        "confidence": "medium",
-        "notes": "Extracted from WE SELL TO YOU, Skeleton Spawner 5.3M per"
+        "spawner_buy_price": 5100000,
+        "confidence": "high",
+        "notes": "Explicit current Skeleton Spawner buy price found"
       },
-      "scraped_at": "2026-04-06T23:00:59.575727Z",
+      "scraped_at": "2026-04-07T22:01:00.256260Z",
       "message_count": 3
     },
     {
       "channel": "https://discord.com/channels/1447593658349256836/1452691863072149566",
       "prices": {
-        "spawner_buy_price": 5400000,
+        "spawner_buy_price": 5100000,
         "confidence": "medium",
-        "notes": "Found an edited price with an explicit value"
+        "notes": "Explicit mention of Skeleton Spawners with a clear price per unit"
       },
-      "scraped_at": "2026-04-06T23:01:07.122076Z",
+      "scraped_at": "2026-04-07T22:01:07.411543Z",
       "message_count": 2
     }
   ]
