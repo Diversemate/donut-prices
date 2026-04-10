@@ -1,45 +1,95 @@
 {
-  "updated_at": "2026-04-09T22:01:32.790859Z",
+  "updated_at": "2026-04-10T22:01:08.197165Z",
   "spawner_price": 5000000,
   "channels": [
     {
       "channel": "https://discord.com/channels/1389268691366973491/1426841516277764257",
       "prices": {
-        "spawner_buy_price": 5200000,
+        "spawner_buy_price": 5000000,
         "confidence": "high",
-        "notes": "Explicit WE SELL TO YOU listing"
+        "notes": "from 'WE SELL TO YOU' section, explicit Skeleton Spawner price 5.2m converted to 5200000m -> 5200000m is 5200000, and 5.2m is more than 5m."
       },
-      "scraped_at": "2026-04-09T22:00:47.016862Z",
+      "scraped_at": "2026-04-10T22:00:37.391069Z",
       "message_count": 3
     },
     {
       "channel": "https://discord.com/channels/1370523532806721556/1416840623230681088",
       "prices": {
         "spawner_buy_price": 5100000,
-        "confidence": "medium",
-        "notes": "Explicit BUY price found in \"Buying: (We Sell To You)\", no other SELL prices to ignore"
+        "confidence": "high",
+        "notes": "explicit price given, 5.1m converted to integer"
       },
-      "scraped_at": "2026-04-09T22:00:55.244824Z",
+      "scraped_at": "2026-04-10T22:00:45.040850Z",
       "message_count": 2
     },
     {
       "channel": "https://discord.com/channels/1368459126971306026/1373579452998746155",
       "prices": {
-        "spawner_buy_price": 5000000,
-        "confidence": "high",
-        "notes": "clear Skeleton Spawner buy price 5M each"
+        "spawner_buy_price": null,
+        "confidence": "low",
+        "notes": "",
+        "spawners": {
+          "sell_to": [
+            "WE SELL TO YOU",
+            "Buying: (We Sell To You)",
+            "BUY PRICES u buy from us",
+            "u buy from us"
+          ],
+          "buy_from": [
+            "WE BUY FROM YOU",
+            "Selling: (You Sell To Us)",
+            "YOU SELL TO US",
+            "SELL PRICES u sell to us",
+            "u sell to us"
+          ],
+          "target_name": "Skeleton Spawner",
+          "target_name_plural": "Skeleton Spawners",
+          "ignore_spawners": [
+            "Iron Golem",
+            "Golem"
+          ],
+          "valid_buy_prices": [
+            {
+              "value": 4500000.0,
+              "text": "4.5m"
+            },
+            {
+              "value": 5500000.0,
+              "text": "5.5M"
+            },
+            {
+              "value": 5600000.0,
+              "text": "5.6M"
+            }
+          ],
+          "clearest_buy_price": null,
+          "return_price": {
+            "price": 0,
+            "price_text": null
+          }
+        },
+        "parsed_message": {
+          "Spawner Price Listings": {
+            "item_price": false,
+            "item": false
+          },
+          "@StaffSelling New Spawner Prices": {
+            "item_price": false,
+            "item": true
+          }
+        }
       },
-      "scraped_at": "2026-04-09T22:01:03.529711Z",
+      "scraped_at": "2026-04-10T22:00:53.362579Z",
       "message_count": 2
     },
     {
       "channel": "https://discord.com/channels/1435392354243837985/1435392356257103926",
       "prices": {
-        "spawner_buy_price": 5100000,
+        "spawner_buy_price": 5610000,
         "confidence": "high",
-        "notes": "Explicit WE SELL TO YOU 5.1M price"
+        "notes": "Explicit current Skeleton Spawner buy price found."
       },
-      "scraped_at": "2026-04-09T22:01:18.765666Z",
+      "scraped_at": "2026-04-10T22:01:00.526681Z",
       "message_count": 3
     },
     {
@@ -47,9 +97,9 @@
       "prices": {
         "spawner_buy_price": 5100000,
         "confidence": "high",
-        "notes": "Explicit price mentioned in 'BUY PRICES' section"
+        "notes": "Extracted from first BUY PRICES block"
       },
-      "scraped_at": "2026-04-09T22:01:32.500480Z",
+      "scraped_at": "2026-04-10T22:01:08.074529Z",
       "message_count": 2
     }
   ]
