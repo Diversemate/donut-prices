@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-11T22:01:20.261706Z",
-  "spawner_price": 5000000,
+  "updated_at": "2026-04-12T22:01:22.780559Z",
+  "spawner_price": 4150000,
   "channels": [
     {
       "channel": "https://discord.com/channels/1389268691366973491/1426841516277764257",
       "prices": {
-        "spawner_buy_price": 5000000,
-        "confidence": "high",
-        "notes": "Skeleton Spawner price explicitly stated with '5m each'"
+        "spawner_buy_price": 4850000,
+        "confidence": "medium",
+        "notes": "Extracted from 'WE SELL TO YOU' section, buying skellys in bulk for 4.85m per"
       },
-      "scraped_at": "2026-04-11T22:00:36.998006Z",
-      "message_count": 2
+      "scraped_at": "2026-04-12T22:00:36.279473Z",
+      "message_count": 4
     },
     {
       "channel": "https://discord.com/channels/1370523532806721556/1416840623230681088",
       "prices": {
         "spawner_buy_price": 5150000,
         "confidence": "high",
-        "notes": "Clear explicit buy price found, multiple prices were considered"
+        "notes": ""
       },
-      "scraped_at": "2026-04-11T22:00:45.248822Z",
+      "scraped_at": "2026-04-12T22:00:55.698874Z",
       "message_count": 3
     },
     {
@@ -29,17 +29,17 @@
         "confidence": "high",
         "notes": ""
       },
-      "scraped_at": "2026-04-11T22:00:55.450063Z",
+      "scraped_at": "2026-04-12T22:01:04.230443Z",
       "message_count": 1
     },
     {
       "channel": "https://discord.com/channels/1435392354243837985/1435392356257103926",
       "prices": {
-        "spawner_buy_price": 5150000,
+        "spawner_buy_price": 4150000,
         "confidence": "high",
-        "notes": "Found explicit price for Skeleton Spawner in WE SELL TO YOU section."
+        "notes": ""
       },
-      "scraped_at": "2026-04-11T22:01:05.372970Z",
+      "scraped_at": "2026-04-12T22:01:14.486334Z",
       "message_count": 3
     },
     {
@@ -47,9 +47,9 @@
       "prices": {
         "spawner_buy_price": 5100000,
         "confidence": "high",
-        "notes": "Clear explicit BUY price"
+        "notes": "Found explicit buy price in clear text"
       },
-      "scraped_at": "2026-04-11T22:01:20.034335Z",
+      "scraped_at": "2026-04-12T22:01:22.650284Z",
       "message_count": 2
     }
   ]
