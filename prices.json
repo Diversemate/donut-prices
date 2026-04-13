@@ -1,45 +1,45 @@
 {
-  "updated_at": "2026-04-12T22:01:22.780559Z",
-  "spawner_price": 4150000,
+  "updated_at": "2026-04-13T22:01:21.531677Z",
+  "spawner_price": 5100000,
   "channels": [
     {
       "channel": "https://discord.com/channels/1389268691366973491/1426841516277764257",
       "prices": {
-        "spawner_buy_price": 4850000,
-        "confidence": "medium",
-        "notes": "Extracted from 'WE SELL TO YOU' section, buying skellys in bulk for 4.85m per"
+        "spawner_buy_price": 5100000,
+        "confidence": "high",
+        "notes": ""
       },
-      "scraped_at": "2026-04-12T22:00:36.279473Z",
-      "message_count": 4
+      "scraped_at": "2026-04-13T22:00:33.602562Z",
+      "message_count": 2
     },
     {
       "channel": "https://discord.com/channels/1370523532806721556/1416840623230681088",
       "prices": {
-        "spawner_buy_price": 5150000,
+        "spawner_buy_price": 5450000,
         "confidence": "high",
-        "notes": ""
+        "notes": "clear and explicit price listed"
       },
-      "scraped_at": "2026-04-12T22:00:55.698874Z",
+      "scraped_at": "2026-04-13T22:00:43.723403Z",
       "message_count": 3
     },
     {
       "channel": "https://discord.com/channels/1368459126971306026/1373579452998746155",
       "prices": {
         "spawner_buy_price": 5300000,
-        "confidence": "high",
-        "notes": ""
+        "confidence": "medium",
+        "notes": "Price is explicitly stated as 5.3M each"
       },
-      "scraped_at": "2026-04-12T22:01:04.230443Z",
-      "message_count": 1
+      "scraped_at": "2026-04-13T22:01:06.053440Z",
+      "message_count": 2
     },
     {
       "channel": "https://discord.com/channels/1435392354243837985/1435392356257103926",
       "prices": {
-        "spawner_buy_price": 4150000,
+        "spawner_buy_price": 5450000,
         "confidence": "high",
         "notes": ""
       },
-      "scraped_at": "2026-04-12T22:01:14.486334Z",
+      "scraped_at": "2026-04-13T22:01:13.380767Z",
       "message_count": 3
     },
     {
@@ -47,9 +47,9 @@
       "prices": {
         "spawner_buy_price": 5100000,
         "confidence": "high",
-        "notes": "Found explicit buy price in clear text"
+        "notes": "Explicit buy price found as edited."
       },
-      "scraped_at": "2026-04-12T22:01:22.650284Z",
+      "scraped_at": "2026-04-13T22:01:21.443140Z",
       "message_count": 2
     }
   ]
