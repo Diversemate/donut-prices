@@ -1,45 +1,55 @@
 {
-  "updated_at": "2026-04-21T22:01:22.873708Z",
-  "spawner_price": 5000000,
+  "updated_at": "2026-04-22T22:01:06.069792Z",
+  "spawner_price": 4300000,
   "channels": [
+    {
+      "channel": "https://discord.com/channels/1389268691366973491/1426841516277764257",
+      "prices": {
+        "spawner_buy_price": 4300000,
+        "confidence": "medium",
+        "notes": ""
+      },
+      "scraped_at": "2026-04-22T22:00:31.450938Z",
+      "message_count": 2
+    },
     {
       "channel": "https://discord.com/channels/1370523532806721556/1416840623230681088",
       "prices": {
-        "spawner_buy_price": 5050000,
+        "spawner_buy_price": 4800000,
         "confidence": "high",
-        "notes": "Clear and explicit price found in 'Buying: (We Sell To You)'"
+        "notes": "Extracted from Buying: (We Sell To You)"
       },
-      "scraped_at": "2026-04-21T22:00:59.766986Z",
-      "message_count": 3
+      "scraped_at": "2026-04-22T22:00:40.279904Z",
+      "message_count": 2
     },
     {
       "channel": "https://discord.com/channels/1368459126971306026/1373579452998746155",
       "prices": {
-        "spawner_buy_price": null,
-        "confidence": "low",
-        "notes": ""
+        "spawner_buy_price": 5400000,
+        "confidence": "medium",
+        "notes": "Clear 'to us' label and price in millions"
       },
-      "scraped_at": "2026-04-21T22:01:08.385540Z",
+      "scraped_at": "2026-04-22T22:00:51.615333Z",
       "message_count": 2
     },
     {
       "channel": "https://discord.com/channels/1435392354243837985/1435392356257103926",
       "prices": {
-        "spawner_buy_price": 5000000,
+        "spawner_buy_price": 4900000,
         "confidence": "high",
-        "notes": ""
+        "notes": "Extracted WE SELL TO YOU section, clear and explicit current Skeleton Spawner buy price."
       },
-      "scraped_at": "2026-04-21T22:01:15.560492Z",
+      "scraped_at": "2026-04-22T22:00:58.832139Z",
       "message_count": 3
     },
     {
       "channel": "https://discord.com/channels/1447593658349256836/1452691863072149566",
       "prices": {
         "spawner_buy_price": 5050000,
-        "confidence": "high",
+        "confidence": "medium",
         "notes": ""
       },
-      "scraped_at": "2026-04-21T22:01:22.769696Z",
+      "scraped_at": "2026-04-22T22:01:06.023267Z",
       "message_count": 2
     }
   ]
