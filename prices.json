@@ -1,45 +1,45 @@
 {
-  "updated_at": "2026-04-24T22:00:59.882039Z",
-  "spawner_price": 4300000,
+  "updated_at": "2026-04-25T22:01:02.656493Z",
+  "spawner_price": 4500000,
   "channels": [
     {
       "channel": "https://discord.com/channels/1389268691366973491/1426841516277764257",
       "prices": {
-        "spawner_buy_price": 4300000,
+        "spawner_buy_price": 4500000,
         "confidence": "high",
-        "notes": "Extracted from the 'BUYING: ( You Sell To Us )' section of multiple messages."
+        "notes": "Explicit buy price from server message"
       },
-      "scraped_at": "2026-04-24T22:00:31.073962Z",
-      "message_count": 6
+      "scraped_at": "2026-04-25T22:00:30.171278Z",
+      "message_count": 2
     },
     {
       "channel": "https://discord.com/channels/1370523532806721556/1416840623230681088",
       "prices": {
-        "spawner_buy_price": 4650000,
+        "spawner_buy_price": 4660000,
         "confidence": "high",
-        "notes": ""
+        "notes": "Explicit current Skeleton Spawner buy prices found"
       },
-      "scraped_at": "2026-04-24T22:00:38.188785Z",
+      "scraped_at": "2026-04-25T22:00:38.857385Z",
       "message_count": 2
     },
     {
       "channel": "https://discord.com/channels/1368459126971306026/1373579452998746155",
       "prices": {
-        "spawner_buy_price": 5000000,
-        "confidence": "high",
-        "notes": "Extracted Skeleton Spawner buy price of 5.1M, converted to 5000000"
+        "spawner_buy_price": null,
+        "confidence": "low",
+        "notes": ""
       },
-      "scraped_at": "2026-04-24T22:00:45.322938Z",
+      "scraped_at": "2026-04-25T22:00:46.047821Z",
       "message_count": 2
     },
     {
       "channel": "https://discord.com/channels/1435392354243837985/1435392356257103926",
       "prices": {
-        "spawner_buy_price": 4600000,
+        "spawner_buy_price": 4650000,
         "confidence": "medium",
-        "notes": ""
+        "notes": "clear buy price mentioned in message WE SELL TO YOU"
       },
-      "scraped_at": "2026-04-24T22:00:52.714130Z",
+      "scraped_at": "2026-04-25T22:00:54.520312Z",
       "message_count": 3
     },
     {
@@ -47,9 +47,9 @@
       "prices": {
         "spawner_buy_price": 4650000,
         "confidence": "high",
-        "notes": "Explicit current price found in WE SELL TO YOU section"
+        "notes": "Found clear and explicit buying price of 4.65M per"
       },
-      "scraped_at": "2026-04-24T22:00:59.814048Z",
+      "scraped_at": "2026-04-25T22:01:02.587775Z",
       "message_count": 2
     }
   ]
